@@ -29,7 +29,7 @@ Install Dependencies:Install required Python libraries:pip install pandas matplo
 
 
 Download the Dataset:
-Download owid-covid-data.csv from Our World in Data.
+Download owid-covid-data.csv from Our World in Data https://docs.owid.io/projects/covid/en/latest/dataset.html.
 Place it in the project folder or update the file path in the notebook.
 
 
